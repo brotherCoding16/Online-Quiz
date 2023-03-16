@@ -242,7 +242,7 @@ h4{
     background-repeat: no-repeat;
   left: 0;
   right: 0;
-  height: 500px;
+  height: 590px;
   
    background-size:cover; 
   }
@@ -253,7 +253,7 @@ h4{
      position: absolute;
      top: 0px;
 
-    font-size:27px;
+    font-size:30px;
     color: #5914adfa;
     
   }
@@ -281,9 +281,7 @@ h4{
     display: block;
   }
   .op{
-    
-   
-    height: 570px;
+    height: 450px;
   }
   #hamburger-icon {
     width: 35px;
