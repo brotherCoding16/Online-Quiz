@@ -229,6 +229,45 @@ h4{
   color: #FFFDFA;
   
 }
+.co{
+  background-color: rgb(206, 194, 172);
+  border-radius: 30px;
+  
+}
+ .bb{
+ 
+ 
+  background-color: #d1a700;
+  border-radius:5PX;
+  width: 32%;
+  border: 1px solid black;
+  height: 130px;
+  float: left;
+  margin-left: 6px;
+  text-align: center;
+}
+.bc{
+
+  background-color: #d1a700;
+  border-radius:5PX;
+  float: right;
+  width: 32%;
+  height: 130px;
+  border: 1px solid black;
+  margin-right: 6px;
+  text-align: center;
+}
+.bd{
+ 
+  background-color: #d1a700;
+  border-radius:5PX;
+  width: 32%;
+  height: 130px;
+  border: 1px solid black;
+  margin: 0 auto;
+  text-align: center;
+  
+}
 @media only screen and (max-width: 1288px) {
   body {
     background-color: rgb(183, 118, 14);
@@ -280,7 +319,7 @@ h4{
     display: block;
   }
   .op{
-    height: 450px;
+    height: 470px;
   }
   #hamburger-icon {
     width: 35px;
@@ -325,7 +364,7 @@ h4{
      right: 0;
      position: absolute;
      top: 0px;
-    font-size:20px;
+    font-size:24.5px;
     color: #5914adfa;
     
   }
@@ -339,6 +378,47 @@ h4{
     border-radius:4px;
     font-size: 17px;
     color: #FFFDFA;
+    
+  }
+  .co{
+    background-color: rgb(206, 194, 172);
+    border-radius: 30px;
+    flex-direction: column;
+    
+  }
+   .bb{
+       /* flex-direction: column; */
+
+    background-color: #d1a700;
+    border-radius:5PX;
+    width: 32%;
+    border: 1px solid black;
+    height: 130px;
+    float: left;
+    margin-left: 6px;
+    text-align: center;
+  }
+  .bc{
+    /* flex-direction: column; */
+    background-color: #d1a700;
+    border-radius:5PX;
+    float: right;
+    width: 32%;
+    height: 130px;
+    border: 1px solid black;
+    margin-right: 6px;
+    text-align: center;
+  }
+  .bd{
+   
+   
+    background-color: #d1a700;
+    border-radius:5PX;
+    width: 32%;
+    height: 130px;
+    border: 1px solid black;
+    margin: 0 auto;
+    text-align: center;
     
   }
 }
