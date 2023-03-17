@@ -298,7 +298,7 @@ h4{
     display: block;
   }
   .op{
-    height: 540px;
+    height: 575px;
   }
   #hamburger-icon {
     width: 35px;
@@ -343,7 +343,7 @@ h4{
      right: 0;
      position: absolute;
      top: 0px;
-    font-size:24.5px;
+    font-size:21.5px;
     color: #5914adfa;
     
   }
