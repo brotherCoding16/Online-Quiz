@@ -229,9 +229,10 @@ h4{
   color: #FFFDFA;
   
 }
-.co{
+.cq{
   background-color: rgb(206, 194, 172);
   border-radius: 30px;
+  height: 160px;
   
 }
  .bb{
@@ -245,28 +246,6 @@ h4{
   float: left;
   margin-left: 6px;
   text-align: center;
-}
-.bc{
-
-  background-color: #d1a700;
-  border-radius:5PX;
-  float: right;
-  width: 32%;
-  height: 130px;
-  border: 1px solid black;
-  margin-right: 6px;
-  text-align: center;
-}
-.bd{
- 
-  background-color: #d1a700;
-  border-radius:5PX;
-  width: 32%;
-  height: 130px;
-  border: 1px solid black;
-  margin: 0 auto;
-  text-align: center;
-  
 }
 @media only screen and (max-width: 1288px) {
   body {
@@ -380,46 +359,21 @@ h4{
     color: #FFFDFA;
     
   }
-  .co{
+  .cq{
     background-color: rgb(206, 194, 172);
     border-radius: 30px;
     flex-direction: column;
-    
+    height: 430px;
+    margin-left: 9px;
+    margin-right: 9px;
   }
-   .bb{
-       /* flex-direction: column; */
 
-    background-color: #d1a700;
-    border-radius:5PX;
-    width: 32%;
-    border: 1px solid black;
-    height: 130px;
-    float: left;
-    margin-left: 6px;
-    text-align: center;
-  }
-  .bc{
-    /* flex-direction: column; */
-    background-color: #d1a700;
-    border-radius:5PX;
-    float: right;
-    width: 32%;
-    height: 130px;
-    border: 1px solid black;
-    margin-right: 6px;
-    text-align: center;
-  }
-  .bd{
-   
-   
-    background-color: #d1a700;
-    border-radius:5PX;
-    width: 32%;
-    height: 130px;
-    border: 1px solid black;
-    margin: 0 auto;
-    text-align: center;
-    
+  .bb{
+    width: 96%;
+    position:relative;
+    margin-right:6px;
+    margin-left: 9px;
+    margin-top: 4px;
   }
 }
 .exam{
