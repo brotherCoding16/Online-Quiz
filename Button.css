@@ -191,8 +191,10 @@ li
   height: 17px;
   display: none;
   float: right;
+     position: absolute;
+  
   margin-top:px;
-  margin-right: 0px;
+  margin-right: 20px;
  
 }
 #hamburger-icon div {
